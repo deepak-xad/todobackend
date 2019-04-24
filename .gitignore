@@ -1,0 +1,8 @@
+#ignore the virtual environment
+venv
+
+#ignore compiled Python source files
+*.pyc
+
+#Ignore SqLite database files
+*.sqlite3
